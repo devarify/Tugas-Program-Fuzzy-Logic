@@ -1,0 +1,6 @@
+﻿Cara menjalankan program executable:
+membuka folder …./Debug/TuproAI.exe
+Untuk Melakukan Debug: buka project TuproAI.sln di folder
+…/TuproAI.
+
+Source Code dapat di jalankan menggunakan Visual Studio yang support C# console.

@@ -1,0 +1,31 @@
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\Tupro2_AI_FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\Tupro2_AI_FuzzyLogic.csprojResolveAssemblyReference.cache
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\obj\Debug\Tupro2_AI_FuzzyLogic.csprojResolveAssemblyReference.cache
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\obj\Debug\Tupro2_AI_FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\bin\Debug\TuproAI.exe.config
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\bin\Debug\TuproAI.exe.manifest
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\bin\Debug\TuproAI.application
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\bin\Debug\TuproAI.exe
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\bin\Debug\TuproAI.pdb
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\obj\Debug\TuproAI.TrustInfo.xml
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\obj\Debug\TuproAI.exe.manifest
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\obj\Debug\TuproAI.application
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\obj\Debug\TuproAI.exe
+C:\Users\Arif Yulianto\Documents\Visual Studio 2017\Projects\TuproAI\ConsoleApp7\obj\Debug\TuproAI.pdb
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\bin\Debug\TuproAI.exe.config
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\bin\Debug\TuproAI.exe.manifest
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\bin\Debug\TuproAI.application
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\bin\Debug\TuproAI.exe
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\bin\Debug\TuproAI.pdb
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\obj\Debug\Tupro2_AI_FuzzyLogic.csprojResolveAssemblyReference.cache
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\obj\Debug\Tupro2_AI_FuzzyLogic.csproj.CoreCompileInputs.cache
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\obj\Debug\TuproAI.TrustInfo.xml
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\obj\Debug\TuproAI.exe.manifest
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\obj\Debug\TuproAI.application
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\obj\Debug\TuproAI.exe
+E:\Kuliah\AI\Tugas Program 2 AI IFX-40-01 1301168560 ArifYulianto\TuproAI\ConsoleApp7\obj\Debug\TuproAI.pdb
